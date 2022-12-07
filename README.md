@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **clsyfriday@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1guertZH4ApqGEoKT9pp_YUTzyyUEpnMymFPCIcoqe1g/edit?usp=sharing](https://docs.google.com/document/d/1guertZH4ApqGEoKT9pp_YUTzyyUEpnMymFPCIcoqe1g/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ZftmidpWtlOZArlmnysNpBj1ExlRRGZxmkTiz0RLHOU/edit?usp=sharing](https://docs.google.com/document/d/1ZftmidpWtlOZArlmnysNpBj1ExlRRGZxmkTiz0RLHOU/edit?usp=sharing)
 
 - ⚡ Fun fact **I am funny but I know how to sing and play the electronic piano**
 
