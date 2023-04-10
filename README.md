@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godwin Alexander Ekainu</h1>
-<h3 align="center">The name maxiggle is my dream OS company. I am a Nigerian Based Software Developer and Technical Writer, I focus on building web and mobile application using javascript, its frameworks and Flutter respectively</h3>
+<h3 align="center">I am a Nigerian Based Software Developer and Technical Writer, I focus on building web and mobile application using javascript, its frameworks and Flutter respectively.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiggle&label=Profile%20views&color=0e75b6&style=flat" alt="maxiggle" /> </p>
 
