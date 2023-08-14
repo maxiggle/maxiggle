@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/godwinaekainu" target="blank"><img src="https://img.shields.io/twitter/follow/godwinaekainu?logo=twitter&style=for-the-badge" alt="godwinaekainu" /></a> </p>
 
-- 📝 I regularly write articles on [https://flutterpage.hashnode.dev/](https://flutterpage.hashnode.dev/)
-
-- 💬 Ask me about **Reactjs, Gatsbyjs, Vue.js and Flutter**
+- 💬 Ask me about **Flutter, Developer relations, Technical writing,**
 
 - 📫 How to reach me **clsyfriday@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Mikcon5VEkkOUtwPdQmGOLlDfgn9MbTc36Iav_dNg6I/edit#heading=h.aagfqklm9zwt](https://docs.google.com/document/d/1Mikcon5VEkkOUtwPdQmGOLlDfgn9MbTc36Iav_dNg6I/edit#heading=h.aagfqklm9zwt)
-
-- ⚡ Fun fact **I am funny but I know how to sing and play the electronic piano**
+- ⚡ Fun fact **I am not funny but I know how to sing and play the electronic piano**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
