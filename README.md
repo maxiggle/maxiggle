@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I am Godwin Alexander Ekainu. I write code for a living
+Building Mobile and enabling mobile solutions onchain
 
 ## 🌐 Socials:
 
